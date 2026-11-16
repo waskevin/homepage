@@ -1,0 +1,97 @@
+[en-us]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-cn]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-hk]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[fr-fr]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[de-de]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[it-it]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[es-es]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[hu-hu]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ja-jp]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ko-kr]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pl-pl]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ru-ru]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[tr-tr]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pt-pt]
+name = "Homepage"
+auth = "waskevin"
+descript = "A self-hosted dashboard for organizing services, bookmarks, widgets, and information."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
